@@ -1,0 +1,17 @@
+{
+  "name": "emlalock_bot",
+  "version": "0.0.1",
+  "description": "A Telegram bot that connects to Emlalock for use by the holder and the wearer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
